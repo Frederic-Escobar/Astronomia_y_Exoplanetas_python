@@ -17,6 +17,17 @@ Con este conjunto de datos, podrás convertirte en un explorador espacial analiz
 - Métodos de descubrimiento
 - Fechas de los descubrimientos
 
+## Requerimientos
+
+El primer requerimiento de la aplicación es calcular y graficar un histograma que muestre cuántos planetas fueron descubiertos a lo largo de los años. Para ello, debes:
+
+1. Crear una gráfica de tipo histograma (`hist`) utilizando los valores de la columna `DESCUBRIMIENTO`.
+2. El histograma debe separar los datos en 30 grupos (bins), permitiendo apreciar la cantidad de planetas descubiertos cada año entre 1998 y 2018.
+
+A continuación, se muestra un ejemplo de cómo debería verse la gráfica resultante:
+
+![Histograma de Descubrimientos]([ruta/a/tu/imagen.png](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/g_TtkUT9Tre07ZFE_W63tA_89374cea161043108e07b9ed4bb17e18_i1.png?expiry=1722297600000&hmac=dz-2Jk_9AwuHxk36E1XIghl5g6lWhhVAo0mrHVhfc8w))
+
 ## Estructura del Proyecto
 
 - `exoplanetas.csv`: Archivo con los datos simplificados de los exoplanetas.
@@ -31,12 +42,10 @@ Para trabajar en este proyecto, necesitarás tener instalado:
 - Python 3.x
 - Pandas
 - NumPy
-- Matplotlib (opcional, para visualización)
+- Matplotlib (para visualización)
 - Jupyter Notebook (opcional, para cuadernos)
 
 Puedes instalar las dependencias usando pip:
 
 ```bash
 pip install pandas numpy matplotlib jupyter
-
-
