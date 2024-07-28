@@ -26,7 +26,7 @@ El primer requerimiento de la aplicación es calcular y graficar un histograma q
 
 A continuación, se muestra un ejemplo de cómo debería verse la gráfica resultante:
 
-![Histograma de Descubrimientos]([ruta/a/tu/imagen.png](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/g_TtkUT9Tre07ZFE_W63tA_89374cea161043108e07b9ed4bb17e18_i1.png?expiry=1722297600000&hmac=dz-2Jk_9AwuHxk36E1XIghl5g6lWhhVAo0mrHVhfc8w))
+![Histograma de Descubrimientos](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/g_TtkUT9Tre07ZFE_W63tA_89374cea161043108e07b9ed4bb17e18_i1.png?expiry=1722297600000&hmac=dz-2Jk_9AwuHxk36E1XIghl5g6lWhhVAo0mrHVhfc8w)
 
 ## Estructura del Proyecto
 
