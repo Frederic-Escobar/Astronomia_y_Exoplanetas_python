@@ -30,7 +30,7 @@ A continuación, se muestra un ejemplo de cómo debería verse la gráfica resul
 
 ## Requerimiento 2: Descubrimiento por estado de publicación
 El segundo requerimiento es permitir relacionar los años de descubrimiento de los planetas y los tipos de publicación que se utilizaron para informar los descubrimientos. Para esto, debes crear una gráfica de tipo boxplot, usando la columna DESCUBRIMIENTO y agrupando los datos de acuerdo con la columna ESTADO_PUBLICACION. La siguiente figura muestra la apariencia de esta gráfica:
-(https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Q1aAicPlRBSWgInD5eQUng_6fa01910ca9e47568220d7e66cedc1af_i2.png?expiry=1722297600000&hmac=yEQRjr5Ms_vPnaxXd0cPhFd2Jt076_4br6YA49SBkMw)
+![Boxplot](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Q1aAicPlRBSWgInD5eQUng_6fa01910ca9e47568220d7e66cedc1af_i2.png?expiry=1722297600000&hmac=yEQRjr5Ms_vPnaxXd0cPhFd2Jt076_4br6YA49SBkMw)
 
 
 ## Estructura del Proyecto
