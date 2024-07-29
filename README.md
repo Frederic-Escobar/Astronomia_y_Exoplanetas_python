@@ -28,6 +28,11 @@ A continuación, se muestra un ejemplo de cómo debería verse la gráfica resul
 
 ![Histograma de Descubrimientos](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/g_TtkUT9Tre07ZFE_W63tA_89374cea161043108e07b9ed4bb17e18_i1.png?expiry=1722297600000&hmac=dz-2Jk_9AwuHxk36E1XIghl5g6lWhhVAo0mrHVhfc8w)
 
+## Requerimiento 2: Descubrimiento por estado de publicación
+El segundo requerimiento es permitir relacionar los años de descubrimiento de los planetas y los tipos de publicación que se utilizaron para informar los descubrimientos. Para esto, debes crear una gráfica de tipo boxplot, usando la columna DESCUBRIMIENTO y agrupando los datos de acuerdo con la columna ESTADO_PUBLICACION. La siguiente figura muestra la apariencia de esta gráfica:
+(https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/Q1aAicPlRBSWgInD5eQUng_6fa01910ca9e47568220d7e66cedc1af_i2.png?expiry=1722297600000&hmac=yEQRjr5Ms_vPnaxXd0cPhFd2Jt076_4br6YA49SBkMw)
+
+
 ## Estructura del Proyecto
 
 - `exoplanetas.csv`: Archivo con los datos simplificados de los exoplanetas.
