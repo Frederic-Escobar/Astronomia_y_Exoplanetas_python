@@ -37,6 +37,10 @@ El segundo requerimiento es permitir relacionar los años de descubrimiento de l
 El siguiente requerimiento es explorar la relación entre la cantidad de planetas descubiertos, el tipo de detección utilizado y el año de descubrimiento. Primero, veamos la gráfica que se debes producir:
 ![Diagrama](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/UPp5vrOYTre6eb6zmI63bQ_79ac78a692654df885fcb77be3525424_i6_v2.png?expiry=1722384000000&hmac=13qQXmnPzFbSxHUH8OQdE1L2d--bIP37Y_q4Bqm-m5E)
 
+## Requerimiento 7: Masa de los planetas vs masa de la estrella más cercana
+En esta parte de la aplicación, vas a generar una gráfica de dispersión para analizar la masa de los planetas vs. la masa de la estrella más cercana a cada uno. La siguiente figura muestra la apariencia de la gráfica que deberías obtener:
+
+![Dispersión](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/63R6VHHqRuy0elRx6tbsWw_da217081ef9444b3833c4937c3244089_i8.png?expiry=1722384000000&hmac=sW4N7Cf_ZHYw8mnOtbhkEBk3xTNnSVP56Nn9mbr030M)
 ## Estructura del Proyecto
 
 - `exoplanetas.csv`: Archivo con los datos simplificados de los exoplanetas.
