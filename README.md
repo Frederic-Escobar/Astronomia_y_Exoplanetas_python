@@ -1,6 +1,7 @@
 # Análisis de Exoplanetas
 
-En este proyecto, trabajarás con datos de todos los planetas extrasolares confirmados, conocidos como exoplanetas, descubiertos entre 1988 y 2018 (más de 3000). La información proviene de la base de datos Open Exoplanet Catalogue, la cual está disponible en [Kaggle](https://www.kaggle.com/mrisdal/open-exoplanet-catalogue).
+En este proyecto porviene del estudio realizado en el curso de la Universidad de los Andes sobre [Programación en Python
+Universidad de los Andes](https://ingenieria.uniandes.edu.co/es/noticias/mooc-coursera-programacion-en-python), trabajarás con datos de todos los planetas extrasolares confirmados, conocidos como exoplanetas, descubiertos entre 1988 y 2018 (más de 3000). La información proviene de la base de datos Open Exoplanet Catalogue, la cual está disponible en [Kaggle](https://www.kaggle.com/mrisdal/open-exoplanet-catalogue).
 
 ## Descripción del Proyecto
 
